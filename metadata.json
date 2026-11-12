@@ -1,0 +1,6 @@
+{
+  "name": "Super Salto Matemático",
+  "description": "Jogo de plataforma estilo Mario com salto entre plataformas flutuantes, coleta de moedas e desafios de matemática a cada 10 plataformas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
